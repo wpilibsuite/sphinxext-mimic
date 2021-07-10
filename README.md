@@ -1,5 +1,5 @@
 # sphinxext-mimic
-![ci](https://github.com/wpilibsuite/sphinxext-mimictoc/workflows/ci/badge.svg)
+![ci](https://github.com/wpilibsuite/sphinxext-mimic/workflows/ci/badge.svg)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Sphinx Extension to create a fake expandable table of contents.
