@@ -3,7 +3,9 @@ from sphinx.util.docutils import SphinxDirective
 from sphinx import addnodes
 from docutils.nodes import Element, Node
 from sphinx.directives.other import TocTree
-
+from sphinx.util.matching import Matcher, patfilter
+from sphinx.util.nodes import explicit_title_re
+from sphinx.util import docname_join, url_re
 from typing import Any, Dict, List, Set, Tuple, overload
 
 
